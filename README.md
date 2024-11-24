@@ -113,6 +113,9 @@ The system uses a modular design comprising a data preprocessing module, recomme
 - **Font Choices:** Sans-serif fonts for readability.  
 - **Layout:** Recommendations positioned prominently to attract user attention.
 
+  ![uml_diagram](https://github.com/user-attachments/assets/280bc727-ae28-4179-8925-3cbe995fcdce)
+
+
 **Outcome:**  
 The design ensures modular functionality and an intuitive interface.
 
